@@ -1,2 +1,10 @@
 # csv files
 *.csv
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
