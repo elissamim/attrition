@@ -1,4 +1,4 @@
-# Attrition
+# Prediction of Attrition
 
 This repo contains a Jupyter Notebook for a task of balanced binary classification. The aim of this task is to identify if a given employee will leave (1) or stay (0) in a given company, from attrition data, i.e historical data of employees who left or stayed in the company. The dataset gives for each employee additional features regarding age, number of years at the company, office location, number of average monthly hours worked, department and job title, gender, satisfaction level in the job, ...
 
