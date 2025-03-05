@@ -1,6 +1,5 @@
-# csv and pkl files
+# csv files
 *.csv
-*.pkl
 
 # Jupyter Notebook checkpoint files
 .ipynb_checkpoints/
