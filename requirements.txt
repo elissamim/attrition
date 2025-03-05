@@ -1,3 +1,5 @@
 category_encoders
 lightgbm
 shap
+fastapi
+uvicorn
