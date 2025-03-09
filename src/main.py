@@ -20,7 +20,8 @@ class InputData(BaseModel):
 
 @app.post("/predict/")
 def predict(data: List[InputData]):
-    df = pd.DataFrame(data)
+    #df = pd.DataFrame(data)
+    df = pd.DataFrame([item.dict() for item in data])
     prediction = model.predict(df)
     return {"prediction": prediction.tolist()}
 
