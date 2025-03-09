@@ -4,4 +4,4 @@ This repo contains a Jupyter Notebook for a task of balanced binary classificati
 
 This classification model is evaluated using a recall, as the cost of False Negatives is higher here than the cost of False Positives, i.e. flagging someone leaving the company as staying in the company is more costly for the company than flagging someone as leaving in the case where this person stays.
 
-The final model is then saved [here]("model").
+The final model is then saved [here]("/model").
